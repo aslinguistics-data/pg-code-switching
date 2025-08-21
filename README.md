@@ -11,7 +11,7 @@ This repository contains **audio recordings** and **transcription files** from t
 - Contains text transcriptions of the audio recordings.
 
 ## 📂 File Structure  
-
+```
 PG_English_Codeswitching/
 ├── Audio-recordings.zip
 │   ├── Ahmedabad/
@@ -37,7 +37,7 @@ PG_English_Codeswitching/
 │   │   └── ...
 │   └── Pune/
 │       └── ...
-
+```
 ## Usage
 
 Please ensure you have the necessary permissions and ethical approvals before using this dataset, as it contains research data collected from human participants.
@@ -87,7 +87,4 @@ This dataset does not include a separate metadata file. Information is embedded 
 ## 📄 License
 
 This dataset is shared under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-
-
-This dataset is licensed under the **MIT License**:
 
